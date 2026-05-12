@@ -1,7 +1,7 @@
 buildscript {
 
     ext {
-        set("jacksonVersion", "2.10.2")
+        set("jacksonVersion", "2.21.2")
         set("springVersion", "4.3.26.RELEASE")
         set("springBotVersion", "1.4.7.RELEASE")
         set("jettyVersion", "9.4.0.RC3")
